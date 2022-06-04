@@ -6,8 +6,8 @@ Roman Shcherban
 
 
 ### Contacts
-Tel - +380967471944;
-Discord - romanjanofi#1372;
+* Tel - +380967471944;
+* Discord - romanjanofi#1372;
 
 
 ### About Me
