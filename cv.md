@@ -7,7 +7,7 @@ Roman Shcherban
 
 ### Contacts
 * Tel - +380967471944;
-* Discord - romanjanofi#1372;
+* Discord - romanjanofi#1372.
 
 
 ### About Me
@@ -15,7 +15,8 @@ Belive in human abilities. I want absolutely change my life. Do not have any exp
 
 
 ### Programming Languages
-HTML, CSS(SCSS).
+* HTML;
+* CSS(SCSS).
 
 
 ### Code Examples
