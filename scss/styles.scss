@@ -1,0 +1,74 @@
+@import "nullstyle.scss";
+.wrapper {
+   height: 100%;
+}
+.container {
+   width: 900px;
+   margin: 0 auto;
+}
+.title {
+   background: rgba(0, 204, 255, 0.315);
+   padding: 50px;
+   &_row {
+      display: flex;
+      justify-content: left;
+   }
+}
+.name {
+   order: 1;
+   font-size: 30px;
+   padding: 30px;
+}
+.avatar {
+   border: 5px solid gray;
+   img {
+      width: 100px;
+      height: 100px;
+   }
+}
+.about {
+   height: 100%;
+   &_content {
+      font-family: Georgia, "Times New Roman", Times, serif;
+   }
+
+   &_headline {
+      font-weight: 700;
+      padding: 20px 0px 5px 0px;
+   }
+
+   &_text {
+      li {
+         margin: 0px 0px 0px 15px;
+         list-style: circle;
+      }
+   }
+}
+.footer {
+   display: block;
+   height: 80px;
+}
+.footer_row {
+   display: flex;
+   align-items: center;
+   justify-content: space-around;
+}
+.footer_rss {
+   display: block;
+   height: 80px;
+   width: 160px;
+   background: url("/rsschool-cv/img/rs_school_js.svg") 100% no-repeat;
+}
+.content {
+   background: rgba(0, 204, 255, 0.315);
+}
+.button {
+   display: block;
+   background: rgb(11, 245, 128);
+   border-radius: 10px;
+   height: 40px;
+   width: 120px;
+   text-align: center;
+   line-height: 40px;
+   font-size: 35px;
+}
